@@ -53,6 +53,7 @@ header div {
 
 section {
     padding: 100px 0;/*ajoute du rembourrage (marge interne) à la section*/
+    background: teal;
 
 }
 section h2 {
@@ -63,6 +64,7 @@ section>div{/* sélectionne les div de permier niveau*/
     display: flex;/*permet aux div enfants de se mettre
     les unes à côté des autres*/
     justify-content: center;/* permet de centrer les div enfant*/
+    background: white;
 
 }
 5
